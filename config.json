@@ -1,0 +1,2816 @@
+{
+  "js_bundles": [
+    {
+      "name": "ChatGPT (OpenAI)",
+      "url": "https://chatgpt.com",
+      "keywords": [
+        "gpt-5",
+        "o3",
+        "o4",
+        "reasoning",
+        "agent",
+        "operator",
+        "codex",
+        "sora",
+        "canvas",
+        "deep research"
+      ]
+    },
+    {
+      "name": "Claude (Anthropic)",
+      "url": "https://claude.ai",
+      "keywords": [
+        "opus",
+        "haiku",
+        "sonnet",
+        "artifact",
+        "project",
+        "memory",
+        "computer_use",
+        "claude code"
+      ]
+    },
+    {
+      "name": "Gemini (GOOGL)",
+      "url": "https://gemini.google.com",
+      "keywords": [
+        "ultra",
+        "flash",
+        "thinking",
+        "deep research",
+        "gems",
+        "live",
+        "veo",
+        "imagen"
+      ]
+    },
+    {
+      "name": "Google AI Studio (GOOGL)",
+      "url": "https://aistudio.google.com",
+      "keywords": [
+        "gemini",
+        "grounding",
+        "function",
+        "context",
+        "caching",
+        "tuning"
+      ]
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://www.perplexity.ai",
+      "keywords": [
+        "sonar",
+        "pro",
+        "enterprise",
+        "finance",
+        "agent",
+        "assistant"
+      ]
+    },
+    {
+      "name": "Grok (xAI)",
+      "url": "https://grok.com",
+      "keywords": [
+        "grok-3",
+        "colossus",
+        "aurora",
+        "reasoning",
+        "image"
+      ]
+    },
+    {
+      "name": "Copilot (MSFT)",
+      "url": "https://copilot.microsoft.com",
+      "keywords": [
+        "advisor",
+        "agent",
+        "think deeper",
+        "vision",
+        "notebook",
+        "researcher"
+      ]
+    },
+    {
+      "name": "Meta AI (META)",
+      "url": "https://www.meta.ai",
+      "keywords": [
+        "llama",
+        "imagine",
+        "reels",
+        "creator",
+        "agent"
+      ]
+    },
+    {
+      "name": "Poe (Quora)",
+      "url": "https://poe.com",
+      "keywords": [
+        "bot",
+        "creator",
+        "monetize",
+        "preview"
+      ]
+    },
+    {
+      "name": "HuggingChat",
+      "url": "https://huggingface.co/chat",
+      "keywords": [
+        "assistant",
+        "tool",
+        "agent",
+        "web search"
+      ]
+    },
+    {
+      "name": "Mistral Le Chat",
+      "url": "https://chat.mistral.ai",
+      "keywords": [
+        "large",
+        "agent",
+        "canvas",
+        "code"
+      ]
+    },
+    {
+      "name": "NotebookLM (GOOGL)",
+      "url": "https://notebooklm.google.com",
+      "keywords": [
+        "audio",
+        "overview",
+        "source",
+        "podcast",
+        "share"
+      ]
+    },
+    {
+      "name": "Instagram (META)",
+      "url": "https://www.instagram.com",
+      "keywords": [
+        "reels",
+        "broadcast",
+        "channel",
+        "creator",
+        "shop",
+        "notes",
+        "blend",
+        "edits"
+      ]
+    },
+    {
+      "name": "Threads (META)",
+      "url": "https://www.threads.net",
+      "keywords": [
+        "trending",
+        "topic",
+        "fediverse",
+        "algorithm",
+        "ads",
+        "analytics"
+      ]
+    },
+    {
+      "name": "WhatsApp Web (META)",
+      "url": "https://web.whatsapp.com",
+      "keywords": [
+        "channel",
+        "community",
+        "ai",
+        "meta ai",
+        "companion"
+      ]
+    },
+    {
+      "name": "Facebook (META)",
+      "url": "https://www.facebook.com",
+      "keywords": [
+        "creator",
+        "marketplace",
+        "reels",
+        "ai",
+        "avatar",
+        "horizon"
+      ]
+    },
+    {
+      "name": "Twitter/X",
+      "url": "https://x.com",
+      "keywords": [
+        "grok",
+        "premium",
+        "creator",
+        "monetize",
+        "video",
+        "spaces",
+        "xpay"
+      ]
+    },
+    {
+      "name": "Snap Web (SNAP)",
+      "url": "https://web.snapchat.com",
+      "keywords": [
+        "spectacles",
+        "ar",
+        "my ai",
+        "dream",
+        "lens",
+        "spotlight"
+      ]
+    },
+    {
+      "name": "Pinterest (PINS)",
+      "url": "https://www.pinterest.com",
+      "keywords": [
+        "shop",
+        "try on",
+        "ai",
+        "collage",
+        "board",
+        "creator"
+      ]
+    },
+    {
+      "name": "Reddit (RDDT)",
+      "url": "https://www.reddit.com",
+      "keywords": [
+        "answer",
+        "ai",
+        "recap",
+        "mod",
+        "creator",
+        "gold",
+        "premium"
+      ]
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/app",
+      "keywords": [
+        "activity",
+        "quest",
+        "clyde",
+        "ai",
+        "app",
+        "store",
+        "nitro"
+      ]
+    },
+    {
+      "name": "LinkedIn (MSFT)",
+      "url": "https://www.linkedin.com",
+      "keywords": [
+        "ai",
+        "coach",
+        "agent",
+        "recruiter",
+        "premium",
+        "video"
+      ]
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com",
+      "keywords": [
+        "shop",
+        "creator",
+        "ai",
+        "effect",
+        "search",
+        "series"
+      ]
+    },
+    {
+      "name": "Coinbase (COIN)",
+      "url": "https://www.coinbase.com",
+      "keywords": [
+        "base",
+        "wallet",
+        "agent",
+        "staking",
+        "derivatives",
+        "layer"
+      ]
+    },
+    {
+      "name": "Robinhood (HOOD)",
+      "url": "https://robinhood.com",
+      "keywords": [
+        "futures",
+        "index",
+        "prediction",
+        "ai",
+        "cortex",
+        "legend"
+      ]
+    },
+    {
+      "name": "PayPal (PYPL)",
+      "url": "https://www.paypal.com",
+      "keywords": [
+        "stablecoin",
+        "pyusd",
+        "fastlane",
+        "venmo",
+        "crypto"
+      ]
+    },
+    {
+      "name": "Stripe",
+      "url": "https://stripe.com",
+      "keywords": [
+        "stablecoin",
+        "crypto",
+        "issuing",
+        "identity",
+        "billing",
+        "agent"
+      ]
+    },
+    {
+      "name": "Cash App (XYZ)",
+      "url": "https://cash.app",
+      "keywords": [
+        "borrow",
+        "invest",
+        "bitcoin",
+        "direct deposit",
+        "savings"
+      ]
+    },
+    {
+      "name": "Amazon (AMZN)",
+      "url": "https://www.amazon.com",
+      "keywords": [
+        "rufus",
+        "ai",
+        "just walk out",
+        "drone",
+        "alexa+",
+        "nova"
+      ]
+    },
+    {
+      "name": "Shopify (SHOP)",
+      "url": "https://www.shopify.com",
+      "keywords": [
+        "sidekick",
+        "magic",
+        "ai",
+        "shop",
+        "hydrogen",
+        "checkout"
+      ]
+    },
+    {
+      "name": "Uber (UBER)",
+      "url": "https://www.uber.com",
+      "keywords": [
+        "ai",
+        "autonomous",
+        "shuttle",
+        "teens",
+        "reserve"
+      ]
+    },
+    {
+      "name": "DoorDash (DASH)",
+      "url": "https://www.doordash.com",
+      "keywords": [
+        "ai",
+        "dasher",
+        "robot",
+        "drone",
+        "grocery"
+      ]
+    },
+    {
+      "name": "Airbnb (ABNB)",
+      "url": "https://www.airbnb.com",
+      "keywords": [
+        "ai",
+        "host",
+        "experience",
+        "icon",
+        "category"
+      ]
+    },
+    {
+      "name": "Instacart",
+      "url": "https://www.instacart.com",
+      "keywords": [
+        "ai",
+        "caper",
+        "cart",
+        "scan",
+        "recipe"
+      ]
+    },
+    {
+      "name": "Netflix (NFLX)",
+      "url": "https://www.netflix.com",
+      "keywords": [
+        "games",
+        "live",
+        "sport",
+        "ad",
+        "spatial",
+        "interactive"
+      ]
+    },
+    {
+      "name": "Spotify (SPOT)",
+      "url": "https://open.spotify.com",
+      "keywords": [
+        "ai dj",
+        "daylist",
+        "blend",
+        "wrapped",
+        "video",
+        "lyrics",
+        "jam"
+      ]
+    },
+    {
+      "name": "YouTube (GOOGL)",
+      "url": "https://www.youtube.com",
+      "keywords": [
+        "dream screen",
+        "ai",
+        "shorts",
+        "podcast",
+        "create",
+        "playable"
+      ]
+    },
+    {
+      "name": "Twitch (AMZN)",
+      "url": "https://www.twitch.tv",
+      "keywords": [
+        "stories",
+        "clips",
+        "discovery",
+        "ai",
+        "boost"
+      ]
+    },
+    {
+      "name": "Roku (ROKU)",
+      "url": "https://www.roku.com",
+      "keywords": [
+        "pro",
+        "ai",
+        "smart home",
+        "camera",
+        "continue"
+      ]
+    },
+    {
+      "name": "Notion",
+      "url": "https://www.notion.so",
+      "keywords": [
+        "ai",
+        "agent",
+        "mail",
+        "calendar",
+        "sites",
+        "form",
+        "chart"
+      ]
+    },
+    {
+      "name": "Figma",
+      "url": "https://www.figma.com",
+      "keywords": [
+        "ai",
+        "slides",
+        "dev mode",
+        "make",
+        "prototype"
+      ]
+    },
+    {
+      "name": "Canva",
+      "url": "https://www.canva.com",
+      "keywords": [
+        "magic",
+        "ai",
+        "studio",
+        "dream lab",
+        "visual suite"
+      ]
+    },
+    {
+      "name": "Slack (CRM)",
+      "url": "https://app.slack.com",
+      "keywords": [
+        "ai",
+        "agent",
+        "list",
+        "canvas",
+        "huddle",
+        "workflow"
+      ]
+    },
+    {
+      "name": "Zoom (ZM)",
+      "url": "https://app.zoom.us",
+      "keywords": [
+        "ai companion",
+        "clips",
+        "docs",
+        "agent",
+        "workplace"
+      ]
+    },
+    {
+      "name": "Atlassian (TEAM)",
+      "url": "https://www.atlassian.com",
+      "keywords": [
+        "intelligence",
+        "rovo",
+        "agent",
+        "guard",
+        "compass"
+      ]
+    },
+    {
+      "name": "DocuSign (DOCU)",
+      "url": "https://www.docusign.com",
+      "keywords": [
+        "iam",
+        "ai",
+        "agreement",
+        "navigator",
+        "insight"
+      ]
+    },
+    {
+      "name": "Dropbox (DBX)",
+      "url": "https://www.dropbox.com",
+      "keywords": [
+        "dash",
+        "ai",
+        "studio",
+        "replay",
+        "docsend"
+      ]
+    },
+    {
+      "name": "Monday.com",
+      "url": "https://monday.com",
+      "keywords": [
+        "ai",
+        "assistant",
+        "automations",
+        "crm",
+        "dev"
+      ]
+    },
+    {
+      "name": "Roblox (RBLX)",
+      "url": "https://www.roblox.com",
+      "keywords": [
+        "ai",
+        "avatar",
+        "shop",
+        "party",
+        "creator",
+        "voice"
+      ]
+    },
+    {
+      "name": "Epic Games",
+      "url": "https://store.epicgames.com",
+      "keywords": [
+        "fab",
+        "uefn",
+        "fortnite",
+        "verse",
+        "ai"
+      ]
+    },
+    {
+      "name": "Steam (Valve)",
+      "url": "https://store.steampowered.com",
+      "keywords": [
+        "deck",
+        "recording",
+        "family",
+        "ai"
+      ]
+    },
+    {
+      "name": "Vercel",
+      "url": "https://vercel.com",
+      "keywords": [
+        "v0",
+        "ai",
+        "sdk",
+        "firewall",
+        "conformance"
+      ]
+    },
+    {
+      "name": "Supabase",
+      "url": "https://supabase.com",
+      "keywords": [
+        "ai",
+        "vector",
+        "realtime",
+        "queue",
+        "cron"
+      ]
+    },
+    {
+      "name": "GitHub (MSFT)",
+      "url": "https://github.com",
+      "keywords": [
+        "copilot",
+        "agent",
+        "spark",
+        "models",
+        "codespace"
+      ]
+    },
+    {
+      "name": "GitLab (GTLB)",
+      "url": "https://gitlab.com",
+      "keywords": [
+        "duo",
+        "ai",
+        "agent",
+        "pipeline",
+        "remote dev"
+      ]
+    },
+    {
+      "name": "Replit",
+      "url": "https://replit.com",
+      "keywords": [
+        "agent",
+        "deploy",
+        "model",
+        "ghostwriter",
+        "ai"
+      ]
+    },
+    {
+      "name": "Cursor",
+      "url": "https://www.cursor.com",
+      "keywords": [
+        "agent",
+        "background",
+        "composer",
+        "model",
+        "predict"
+      ]
+    },
+    {
+      "name": "Tesla (TSLA)",
+      "url": "https://www.tesla.com",
+      "keywords": [
+        "optimus",
+        "robotaxi",
+        "cybercab",
+        "fsd",
+        "energy",
+        "powerwall"
+      ]
+    },
+    {
+      "name": "Rivian (RIVN)",
+      "url": "https://rivian.com",
+      "keywords": [
+        "software",
+        "adventure",
+        "gear",
+        "commercial"
+      ]
+    },
+    {
+      "name": "Apple (AAPL)",
+      "url": "https://www.apple.com",
+      "keywords": [
+        "intelligence",
+        "siri",
+        "vision",
+        "spatial",
+        "journal"
+      ]
+    },
+    {
+      "name": "Samsung",
+      "url": "https://www.samsung.com",
+      "keywords": [
+        "galaxy ai",
+        "one ui",
+        "gauss",
+        "bixby",
+        "fold",
+        "ring"
+      ]
+    },
+    {
+      "name": "Booking.com",
+      "url": "https://www.booking.com",
+      "keywords": [
+        "ai",
+        "planner",
+        "genius",
+        "trip",
+        "assistant"
+      ]
+    },
+    {
+      "name": "Expedia",
+      "url": "https://www.expedia.com",
+      "keywords": [
+        "ai",
+        "romie",
+        "planner",
+        "price",
+        "member"
+      ]
+    },
+    {
+      "name": "Peloton",
+      "url": "https://www.onepeloton.com",
+      "keywords": [
+        "ai",
+        "instructor",
+        "guide",
+        "lanebreak",
+        "entertainment"
+      ]
+    },
+    {
+      "name": "Toast (TOST)",
+      "url": "https://pos.toasttab.com",
+      "keywords": [
+        "ai",
+        "kds",
+        "mobile",
+        "online ordering",
+        "catering"
+      ]
+    },
+    {
+      "name": "Zillow",
+      "url": "https://www.zillow.com",
+      "keywords": [
+        "ai",
+        "3d tour",
+        "estimate",
+        "affordability",
+        "listing"
+      ]
+    },
+    {
+      "name": "Redfin",
+      "url": "https://www.redfin.com",
+      "keywords": [
+        "ai",
+        "ask redfin",
+        "estimate",
+        "hot home"
+      ]
+    }
+  ],
+  "docs": [
+    {
+      "name": "OpenAI API",
+      "urls": [
+        "https://platform.openai.com/docs/models",
+        "https://platform.openai.com/docs/changelog"
+      ],
+      "keywords": [
+        "gpt",
+        "model",
+        "new",
+        "beta",
+        "deprecated",
+        "preview",
+        "o1",
+        "o3",
+        "o4"
+      ]
+    },
+    {
+      "name": "Anthropic API",
+      "urls": [
+        "https://docs.anthropic.com/en/docs/about-claude/models"
+      ],
+      "keywords": [
+        "claude",
+        "model",
+        "new",
+        "opus",
+        "sonnet",
+        "haiku"
+      ]
+    },
+    {
+      "name": "Google Gemini API",
+      "urls": [
+        "https://ai.google.dev/gemini-api/docs/models"
+      ],
+      "keywords": [
+        "gemini",
+        "model",
+        "new",
+        "flash",
+        "pro",
+        "ultra",
+        "nano",
+        "veo"
+      ]
+    },
+    {
+      "name": "AWS Bedrock",
+      "urls": [
+        "https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html"
+      ],
+      "keywords": [
+        "titan",
+        "nova",
+        "model",
+        "new",
+        "agent"
+      ]
+    },
+    {
+      "name": "Azure OpenAI (MSFT)",
+      "urls": [
+        "https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new",
+        "https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models"
+      ],
+      "keywords": [
+        "gpt",
+        "model",
+        "preview",
+        "new",
+        "phi",
+        "o1",
+        "o3"
+      ]
+    },
+    {
+      "name": "NVIDIA NIM",
+      "urls": [
+        "https://docs.nvidia.com/nim/large-language-models/latest/release-notes.html"
+      ],
+      "keywords": [
+        "nim",
+        "model",
+        "nemotron",
+        "new",
+        "blackwell"
+      ]
+    },
+    {
+      "name": "Meta LLaMA",
+      "urls": [
+        "https://ai.meta.com/resources/models-and-libraries/"
+      ],
+      "keywords": [
+        "llama",
+        "model",
+        "new",
+        "open-source",
+        "vision"
+      ]
+    },
+    {
+      "name": "Hugging Face Trending",
+      "urls": [
+        "https://huggingface.co/models?sort=trending"
+      ],
+      "keywords": [
+        "trending",
+        "new",
+        "model"
+      ]
+    },
+    {
+      "name": "Cloudflare Workers AI (NET)",
+      "urls": [
+        "https://developers.cloudflare.com/workers-ai/models/"
+      ],
+      "keywords": [
+        "model",
+        "new",
+        "workers",
+        "ai"
+      ]
+    },
+    {
+      "name": "Shopify Dev (SHOP)",
+      "urls": [
+        "https://shopify.dev/changelog"
+      ],
+      "keywords": [
+        "new",
+        "api",
+        "checkout",
+        "sidekick"
+      ]
+    },
+    {
+      "name": "Snowflake (SNOW)",
+      "urls": [
+        "https://docs.snowflake.com/en/release-notes/new-features"
+      ],
+      "keywords": [
+        "cortex",
+        "arctic",
+        "new",
+        "preview"
+      ]
+    },
+    {
+      "name": "Stripe Changelog",
+      "urls": [
+        "https://stripe.com/docs/changelog"
+      ],
+      "keywords": [
+        "new",
+        "beta",
+        "payment",
+        "billing",
+        "crypto"
+      ]
+    },
+    {
+      "name": "Twilio Changelog (TWLO)",
+      "urls": [
+        "https://www.twilio.com/en-us/changelog"
+      ],
+      "keywords": [
+        "new",
+        "beta",
+        "segment",
+        "ai"
+      ]
+    },
+    {
+      "name": "Adobe Firefly (ADBE)",
+      "urls": [
+        "https://helpx.adobe.com/firefly/whats-new.html"
+      ],
+      "keywords": [
+        "firefly",
+        "generative",
+        "model",
+        "new",
+        "beta"
+      ]
+    },
+    {
+      "name": "Figma Release Notes",
+      "urls": [
+        "https://www.figma.com/release-notes/"
+      ],
+      "keywords": [
+        "ai",
+        "dev-mode",
+        "new",
+        "prototype",
+        "slides"
+      ]
+    },
+    {
+      "name": "ServiceNow (NOW)",
+      "urls": [
+        "https://docs.servicenow.com/bundle/latest-release/page/release-notes.html"
+      ],
+      "keywords": [
+        "now-assist",
+        "ai",
+        "agent",
+        "new"
+      ]
+    }
+  ],
+  "sitemaps": [
+    {
+      "name": "OpenAI",
+      "sitemap_url": "https://openai.com/sitemap.xml",
+      "interesting_patterns": [
+        "/blog/",
+        "/product/",
+        "/research/"
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "sitemap_url": "https://www.anthropic.com/sitemap.xml",
+      "interesting_patterns": [
+        "/news/",
+        "/research/",
+        "/claude"
+      ]
+    },
+    {
+      "name": "Google DeepMind",
+      "sitemap_url": "https://deepmind.google/sitemap.xml",
+      "interesting_patterns": [
+        "/discover/",
+        "/research/"
+      ]
+    },
+    {
+      "name": "Google Blog (GOOGL)",
+      "sitemap_url": "https://blog.google/sitemap.xml",
+      "interesting_patterns": [
+        "/technology/",
+        "/products/",
+        "/ai/"
+      ]
+    },
+    {
+      "name": "Microsoft (MSFT)",
+      "sitemap_url": "https://www.microsoft.com/sitemap.xml",
+      "interesting_patterns": [
+        "/en-us/ai/",
+        "/copilot/",
+        "/surface/"
+      ]
+    },
+    {
+      "name": "Meta (META)",
+      "sitemap_url": "https://about.meta.com/sitemap.xml",
+      "interesting_patterns": [
+        "/news/",
+        "/technologies/",
+        "/quest/"
+      ]
+    },
+    {
+      "name": "Apple Newsroom (AAPL)",
+      "sitemap_url": "https://www.apple.com/newsroom/sitemap.xml",
+      "interesting_patterns": [
+        "/press-release/",
+        "/update/"
+      ]
+    },
+    {
+      "name": "Amazon (AMZN)",
+      "sitemap_url": "https://www.aboutamazon.com/sitemap.xml",
+      "interesting_patterns": [
+        "/news/",
+        "/devices/",
+        "/alexa/"
+      ]
+    },
+    {
+      "name": "NVIDIA (NVDA)",
+      "sitemap_url": "https://www.nvidia.com/sitemap.xml",
+      "interesting_patterns": [
+        "/blog/",
+        "/geforce/",
+        "/data-center/"
+      ]
+    },
+    {
+      "name": "AMD",
+      "sitemap_url": "https://www.amd.com/sitemap.xml",
+      "interesting_patterns": [
+        "/products/",
+        "/newsroom/"
+      ]
+    },
+    {
+      "name": "Intel (INTC)",
+      "sitemap_url": "https://www.intel.com/sitemap.xml",
+      "interesting_patterns": [
+        "/newsroom/",
+        "/products/"
+      ]
+    },
+    {
+      "name": "Tesla (TSLA)",
+      "sitemap_url": "https://www.tesla.com/sitemap.xml",
+      "interesting_patterns": [
+        "/blog/",
+        "/model",
+        "/energy/"
+      ]
+    },
+    {
+      "name": "Salesforce (CRM)",
+      "sitemap_url": "https://www.salesforce.com/sitemap.xml",
+      "interesting_patterns": [
+        "/news/",
+        "/products/",
+        "/agentforce/"
+      ]
+    },
+    {
+      "name": "Adobe (ADBE)",
+      "sitemap_url": "https://www.adobe.com/sitemap.xml",
+      "interesting_patterns": [
+        "/products/",
+        "/news/",
+        "/firefly/"
+      ]
+    },
+    {
+      "name": "Oracle (ORCL)",
+      "sitemap_url": "https://www.oracle.com/sitemap.xml",
+      "interesting_patterns": [
+        "/news/",
+        "/cloud/",
+        "/ai/"
+      ]
+    },
+    {
+      "name": "Palantir (PLTR)",
+      "sitemap_url": "https://www.palantir.com/sitemap.xml",
+      "interesting_patterns": [
+        "/newsroom/",
+        "/platforms/"
+      ]
+    },
+    {
+      "name": "Snowflake (SNOW)",
+      "sitemap_url": "https://www.snowflake.com/sitemap.xml",
+      "interesting_patterns": [
+        "/blog/",
+        "/news/"
+      ]
+    },
+    {
+      "name": "CrowdStrike (CRWD)",
+      "sitemap_url": "https://www.crowdstrike.com/sitemap.xml",
+      "interesting_patterns": [
+        "/blog/",
+        "/press-releases/"
+      ]
+    },
+    {
+      "name": "Palo Alto (PANW)",
+      "sitemap_url": "https://www.paloaltonetworks.com/sitemap.xml",
+      "interesting_patterns": [
+        "/blog/",
+        "/press-releases/"
+      ]
+    },
+    {
+      "name": "ServiceNow (NOW)",
+      "sitemap_url": "https://www.servicenow.com/sitemap.xml",
+      "interesting_patterns": [
+        "/products/",
+        "/blogs/"
+      ]
+    },
+    {
+      "name": "Shopify (SHOP)",
+      "sitemap_url": "https://www.shopify.com/sitemap.xml",
+      "interesting_patterns": [
+        "/editions/",
+        "/blog/"
+      ]
+    },
+    {
+      "name": "Uber (UBER)",
+      "sitemap_url": "https://www.uber.com/sitemap.xml",
+      "interesting_patterns": [
+        "/newsroom/",
+        "/blog/"
+      ]
+    },
+    {
+      "name": "Coinbase (COIN)",
+      "sitemap_url": "https://www.coinbase.com/sitemap.xml",
+      "interesting_patterns": [
+        "/blog/",
+        "/learn/",
+        "/base/"
+      ]
+    },
+    {
+      "name": "Snap (SNAP)",
+      "sitemap_url": "https://www.snap.com/sitemap.xml",
+      "interesting_patterns": [
+        "/news/",
+        "/ar/"
+      ]
+    },
+    {
+      "name": "Reddit (RDDT)",
+      "sitemap_url": "https://www.redditinc.com/sitemap.xml",
+      "interesting_patterns": [
+        "/blog/",
+        "/press/"
+      ]
+    },
+    {
+      "name": "Roblox (RBLX)",
+      "sitemap_url": "https://corp.roblox.com/sitemap.xml",
+      "interesting_patterns": [
+        "/blog/",
+        "/newsroom/"
+      ]
+    },
+    {
+      "name": "Cloudflare (NET)",
+      "sitemap_url": "https://blog.cloudflare.com/sitemap.xml",
+      "interesting_patterns": [
+        ""
+      ]
+    },
+    {
+      "name": "Broadcom (AVGO)",
+      "sitemap_url": "https://www.broadcom.com/sitemap.xml",
+      "interesting_patterns": [
+        "/products/",
+        "/blog/"
+      ]
+    },
+    {
+      "name": "Qualcomm (QCOM)",
+      "sitemap_url": "https://www.qualcomm.com/sitemap.xml",
+      "interesting_patterns": [
+        "/news/",
+        "/products/",
+        "/snapdragon/"
+      ]
+    },
+    {
+      "name": "ARM Holdings (ARM)",
+      "sitemap_url": "https://www.arm.com/sitemap.xml",
+      "interesting_patterns": [
+        "/newsroom/",
+        "/products/"
+      ]
+    },
+    {
+      "name": "Micron (MU)",
+      "sitemap_url": "https://www.micron.com/sitemap.xml",
+      "interesting_patterns": [
+        "/press-center/",
+        "/products/"
+      ]
+    },
+    {
+      "name": "C3.ai (AI)",
+      "sitemap_url": "https://c3.ai/sitemap.xml",
+      "interesting_patterns": [
+        "/news/",
+        "/products/"
+      ]
+    },
+    {
+      "name": "SoundHound (SOUN)",
+      "sitemap_url": "https://www.soundhound.com/sitemap.xml",
+      "interesting_patterns": [
+        "/newsroom/"
+      ]
+    },
+    {
+      "name": "UiPath (PATH)",
+      "sitemap_url": "https://www.uipath.com/sitemap.xml",
+      "interesting_patterns": [
+        "/blog/",
+        "/newsroom/"
+      ]
+    },
+    {
+      "name": "GitLab (GTLB)",
+      "sitemap_url": "https://about.gitlab.com/sitemap.xml",
+      "interesting_patterns": [
+        "/releases/",
+        "/blog/"
+      ]
+    },
+    {
+      "name": "Duolingo (DUOL)",
+      "sitemap_url": "https://blog.duolingo.com/sitemap.xml",
+      "interesting_patterns": [
+        ""
+      ]
+    },
+    {
+      "name": "IonQ (IONQ)",
+      "sitemap_url": "https://ionq.com/sitemap.xml",
+      "interesting_patterns": [
+        "/news/"
+      ]
+    },
+    {
+      "name": "Rigetti (RGTI)",
+      "sitemap_url": "https://www.rigetti.com/sitemap.xml",
+      "interesting_patterns": [
+        "/news/"
+      ]
+    }
+  ],
+  "github": [
+    {
+      "name": "LLaMA (META)",
+      "repo": "meta-llama/llama",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "LLaMA Models (META)",
+      "repo": "meta-llama/llama-models",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "PyTorch (META)",
+      "repo": "pytorch/pytorch",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "React (META)",
+      "repo": "facebook/react",
+      "watch": [
+        "releases"
+      ],
+      "keywords": [
+        "server",
+        "compiler"
+      ]
+    },
+    {
+      "name": "Ollama",
+      "repo": "ollama/ollama",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "watch": [
+        "releases"
+      ],
+      "keywords": [
+        "agent",
+        "tool"
+      ]
+    },
+    {
+      "name": "LlamaIndex",
+      "repo": "run-llama/llama_index",
+      "watch": [
+        "releases"
+      ],
+      "keywords": [
+        "agent"
+      ]
+    },
+    {
+      "name": "vLLM",
+      "repo": "vllm-project/vllm",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "HF Transformers",
+      "repo": "huggingface/transformers",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "TensorFlow (GOOGL)",
+      "repo": "tensorflow/tensorflow",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes (GOOGL)",
+      "repo": "kubernetes/kubernetes",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "VS Code (MSFT)",
+      "repo": "microsoft/vscode",
+      "watch": [
+        "releases"
+      ],
+      "keywords": [
+        "copilot",
+        "ai"
+      ]
+    },
+    {
+      "name": "TypeScript (MSFT)",
+      "repo": "microsoft/TypeScript",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "Semantic Kernel (MSFT)",
+      "repo": "microsoft/semantic-kernel",
+      "watch": [
+        "releases"
+      ],
+      "keywords": [
+        "agent"
+      ]
+    },
+    {
+      "name": "AutoGen (MSFT)",
+      "repo": "microsoft/autogen",
+      "watch": [
+        "releases"
+      ],
+      "keywords": [
+        "agent"
+      ]
+    },
+    {
+      "name": "Swift (AAPL)",
+      "repo": "swiftlang/swift",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "MLX (AAPL)",
+      "repo": "ml-explore/mlx",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "TensorRT-LLM (NVDA)",
+      "repo": "NVIDIA/TensorRT-LLM",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "NeMo (NVDA)",
+      "repo": "NVIDIA/NeMo",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "ROCm (AMD)",
+      "repo": "ROCm/ROCm",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "Terraform (HCP)",
+      "repo": "hashicorp/terraform",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "GitLab (GTLB)",
+      "repo": "gitlabhq/gitlabhq",
+      "watch": [
+        "releases"
+      ],
+      "keywords": [
+        "ai",
+        "duo"
+      ]
+    },
+    {
+      "name": "Elasticsearch (ESTC)",
+      "repo": "elastic/elasticsearch",
+      "watch": [
+        "releases"
+      ],
+      "keywords": [
+        "vector",
+        "ai"
+      ]
+    },
+    {
+      "name": "Kafka (CFLT)",
+      "repo": "apache/kafka",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "Grafana",
+      "repo": "grafana/grafana",
+      "watch": [
+        "releases"
+      ],
+      "keywords": [
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "name": "Mistral AI",
+      "repo": "mistralai/mistral-inference",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "Anthropic SDK",
+      "repo": "anthropics/anthropic-sdk-python",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "OpenAI SDK",
+      "repo": "openai/openai-python",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "CrewAI",
+      "repo": "crewAIInc/crewAI",
+      "watch": [
+        "releases"
+      ],
+      "keywords": [
+        "agent"
+      ]
+    },
+    {
+      "name": "Vercel AI SDK",
+      "repo": "vercel/ai",
+      "watch": [
+        "releases"
+      ],
+      "keywords": [
+        "provider",
+        "model"
+      ]
+    },
+    {
+      "name": "Deno",
+      "repo": "denoland/deno",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    },
+    {
+      "name": "Bun",
+      "repo": "oven-sh/bun",
+      "watch": [
+        "releases"
+      ],
+      "keywords": []
+    }
+  ],
+  "app_store": [
+    {
+      "name": "ChatGPT (OpenAI)",
+      "app_id": "6448311069"
+    },
+    {
+      "name": "Claude (Anthropic)",
+      "app_id": "6473753684"
+    },
+    {
+      "name": "Gemini (GOOGL)",
+      "app_id": "6477489129"
+    },
+    {
+      "name": "Google (GOOGL)",
+      "app_id": "284815942"
+    },
+    {
+      "name": "Google Maps (GOOGL)",
+      "app_id": "585027354"
+    },
+    {
+      "name": "Chrome (GOOGL)",
+      "app_id": "535886823"
+    },
+    {
+      "name": "YouTube (GOOGL)",
+      "app_id": "544007664"
+    },
+    {
+      "name": "Google Photos (GOOGL)",
+      "app_id": "962194608"
+    },
+    {
+      "name": "Perplexity",
+      "app_id": "1668000334"
+    },
+    {
+      "name": "Grok (xAI)",
+      "app_id": "6670324846"
+    },
+    {
+      "name": "Copilot (MSFT)",
+      "app_id": "6738605245"
+    },
+    {
+      "name": "Microsoft 365 (MSFT)",
+      "app_id": "541164041"
+    },
+    {
+      "name": "Edge (MSFT)",
+      "app_id": "1288723196"
+    },
+    {
+      "name": "Teams (MSFT)",
+      "app_id": "1113153706"
+    },
+    {
+      "name": "LinkedIn (MSFT)",
+      "app_id": "288429040"
+    },
+    {
+      "name": "Instagram (META)",
+      "app_id": "389801252"
+    },
+    {
+      "name": "Facebook (META)",
+      "app_id": "284882215"
+    },
+    {
+      "name": "WhatsApp (META)",
+      "app_id": "310633997"
+    },
+    {
+      "name": "Threads (META)",
+      "app_id": "6446901002"
+    },
+    {
+      "name": "Messenger (META)",
+      "app_id": "454638411"
+    },
+    {
+      "name": "Amazon (AMZN)",
+      "app_id": "297606951"
+    },
+    {
+      "name": "Alexa (AMZN)",
+      "app_id": "944011620"
+    },
+    {
+      "name": "Prime Video (AMZN)",
+      "app_id": "545519333"
+    },
+    {
+      "name": "Netflix (NFLX)",
+      "app_id": "363590051"
+    },
+    {
+      "name": "Spotify (SPOT)",
+      "app_id": "324684580"
+    },
+    {
+      "name": "X/Twitter",
+      "app_id": "333903271"
+    },
+    {
+      "name": "Snapchat (SNAP)",
+      "app_id": "447188370"
+    },
+    {
+      "name": "Pinterest (PINS)",
+      "app_id": "429047995"
+    },
+    {
+      "name": "Reddit (RDDT)",
+      "app_id": "1064216828"
+    },
+    {
+      "name": "Discord",
+      "app_id": "985746746"
+    },
+    {
+      "name": "TikTok",
+      "app_id": "835599320"
+    },
+    {
+      "name": "Telegram",
+      "app_id": "686449807"
+    },
+    {
+      "name": "Salesforce (CRM)",
+      "app_id": "404249815"
+    },
+    {
+      "name": "Slack (CRM)",
+      "app_id": "618783545"
+    },
+    {
+      "name": "Zoom (ZM)",
+      "app_id": "546505307"
+    },
+    {
+      "name": "PayPal (PYPL)",
+      "app_id": "283646709"
+    },
+    {
+      "name": "Venmo (PYPL)",
+      "app_id": "351727428"
+    },
+    {
+      "name": "Cash App (XYZ)",
+      "app_id": "711923939"
+    },
+    {
+      "name": "Coinbase (COIN)",
+      "app_id": "886427730"
+    },
+    {
+      "name": "Robinhood (HOOD)",
+      "app_id": "938003185"
+    },
+    {
+      "name": "Uber (UBER)",
+      "app_id": "368677368"
+    },
+    {
+      "name": "Uber Eats (UBER)",
+      "app_id": "1058959277"
+    },
+    {
+      "name": "DoorDash (DASH)",
+      "app_id": "719972451"
+    },
+    {
+      "name": "Airbnb (ABNB)",
+      "app_id": "401626263"
+    },
+    {
+      "name": "Shopify (SHOP)",
+      "app_id": "371294472"
+    },
+    {
+      "name": "Duolingo (DUOL)",
+      "app_id": "570060128"
+    },
+    {
+      "name": "Roblox (RBLX)",
+      "app_id": "431946152"
+    },
+    {
+      "name": "Notion",
+      "app_id": "1232780281"
+    },
+    {
+      "name": "Figma",
+      "app_id": "1152747299"
+    },
+    {
+      "name": "Canva",
+      "app_id": "897446215"
+    },
+    {
+      "name": "Adobe Express (ADBE)",
+      "app_id": "1051937863"
+    },
+    {
+      "name": "TurboTax (INTU)",
+      "app_id": "702638843"
+    },
+    {
+      "name": "QuickBooks (INTU)",
+      "app_id": "584295618"
+    },
+    {
+      "name": "Dropbox (DBX)",
+      "app_id": "327630330"
+    },
+    {
+      "name": "DocuSign (DOCU)",
+      "app_id": "474990205"
+    },
+    {
+      "name": "Roku (ROKU)",
+      "app_id": "482066631"
+    },
+    {
+      "name": "Tesla (TSLA)",
+      "app_id": "582007913"
+    },
+    {
+      "name": "Rivian (RIVN)",
+      "app_id": "1498809498"
+    },
+    {
+      "name": "Toast (TOST)",
+      "app_id": "1235315521"
+    },
+    {
+      "name": "Webex (CSCO)",
+      "app_id": "833967564"
+    },
+    {
+      "name": "Okta Verify (OKTA)",
+      "app_id": "490179405"
+    }
+  ],
+  "play_store": [
+    {
+      "name": "ChatGPT (OpenAI)",
+      "package": "com.openai.chatgpt"
+    },
+    {
+      "name": "Claude (Anthropic)",
+      "package": "com.anthropic.claude"
+    },
+    {
+      "name": "Gemini (GOOGL)",
+      "package": "com.google.android.apps.bard"
+    },
+    {
+      "name": "Google (GOOGL)",
+      "package": "com.google.android.googlequicksearchbox"
+    },
+    {
+      "name": "Chrome (GOOGL)",
+      "package": "com.android.chrome"
+    },
+    {
+      "name": "YouTube (GOOGL)",
+      "package": "com.google.android.youtube"
+    },
+    {
+      "name": "Google Maps (GOOGL)",
+      "package": "com.google.android.apps.maps"
+    },
+    {
+      "name": "Perplexity",
+      "package": "ai.perplexity.app.android"
+    },
+    {
+      "name": "Copilot (MSFT)",
+      "package": "com.microsoft.copilot"
+    },
+    {
+      "name": "Edge (MSFT)",
+      "package": "com.microsoft.emmx"
+    },
+    {
+      "name": "Teams (MSFT)",
+      "package": "com.microsoft.teams"
+    },
+    {
+      "name": "LinkedIn (MSFT)",
+      "package": "com.linkedin.android"
+    },
+    {
+      "name": "Instagram (META)",
+      "package": "com.instagram.android"
+    },
+    {
+      "name": "Facebook (META)",
+      "package": "com.facebook.katana"
+    },
+    {
+      "name": "WhatsApp (META)",
+      "package": "com.whatsapp"
+    },
+    {
+      "name": "Threads (META)",
+      "package": "com.instagram.barcelona"
+    },
+    {
+      "name": "Messenger (META)",
+      "package": "com.facebook.orca"
+    },
+    {
+      "name": "Amazon (AMZN)",
+      "package": "com.amazon.mShop.android.shopping"
+    },
+    {
+      "name": "Alexa (AMZN)",
+      "package": "com.amazon.dee.app"
+    },
+    {
+      "name": "Netflix (NFLX)",
+      "package": "com.netflix.mediaclient"
+    },
+    {
+      "name": "Spotify (SPOT)",
+      "package": "com.spotify.music"
+    },
+    {
+      "name": "X/Twitter",
+      "package": "com.twitter.android"
+    },
+    {
+      "name": "Snapchat (SNAP)",
+      "package": "com.snapchat.android"
+    },
+    {
+      "name": "Pinterest (PINS)",
+      "package": "com.pinterest"
+    },
+    {
+      "name": "Reddit (RDDT)",
+      "package": "com.reddit.frontpage"
+    },
+    {
+      "name": "Discord",
+      "package": "com.discord"
+    },
+    {
+      "name": "TikTok",
+      "package": "com.zhiliaoapp.musically"
+    },
+    {
+      "name": "Telegram",
+      "package": "org.telegram.messenger"
+    },
+    {
+      "name": "Slack (CRM)",
+      "package": "com.Slack"
+    },
+    {
+      "name": "Zoom (ZM)",
+      "package": "us.zoom.videomeetings"
+    },
+    {
+      "name": "PayPal (PYPL)",
+      "package": "com.paypal.android.p2pmobile"
+    },
+    {
+      "name": "Venmo (PYPL)",
+      "package": "com.venmo"
+    },
+    {
+      "name": "Cash App (XYZ)",
+      "package": "com.squareup.cash"
+    },
+    {
+      "name": "Coinbase (COIN)",
+      "package": "com.coinbase.android"
+    },
+    {
+      "name": "Robinhood (HOOD)",
+      "package": "com.robinhood.android"
+    },
+    {
+      "name": "Uber (UBER)",
+      "package": "com.ubercab"
+    },
+    {
+      "name": "DoorDash (DASH)",
+      "package": "com.dd.doordash"
+    },
+    {
+      "name": "Airbnb (ABNB)",
+      "package": "com.airbnb.android"
+    },
+    {
+      "name": "Shopify (SHOP)",
+      "package": "com.shopify.mobile"
+    },
+    {
+      "name": "Duolingo (DUOL)",
+      "package": "com.duolingo"
+    },
+    {
+      "name": "Roblox (RBLX)",
+      "package": "com.roblox.client"
+    },
+    {
+      "name": "Notion",
+      "package": "notion.id"
+    },
+    {
+      "name": "Canva",
+      "package": "com.canva.editor"
+    },
+    {
+      "name": "Tesla (TSLA)",
+      "package": "com.teslamotors.tesla"
+    }
+  ],
+  "subdomains": [
+    {
+      "name": "OpenAI",
+      "domain": "openai.com",
+      "extra_subdomains": [
+        "codex",
+        "sora",
+        "operator",
+        "agent",
+        "swarm",
+        "o3",
+        "o4",
+        "arena",
+        "safety",
+        "hub"
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "domain": "anthropic.com",
+      "extra_subdomains": [
+        "claude",
+        "opus",
+        "workbench",
+        "tools",
+        "agent",
+        "code",
+        "safety"
+      ]
+    },
+    {
+      "name": "Google (GOOGL)",
+      "domain": "google.com",
+      "extra_subdomains": [
+        "gemini",
+        "notebooklm",
+        "aistudio",
+        "stitch",
+        "veo",
+        "imagen",
+        "whisk",
+        "illuminate"
+      ]
+    },
+    {
+      "name": "Microsoft (MSFT)",
+      "domain": "microsoft.com",
+      "extra_subdomains": [
+        "copilot",
+        "phi",
+        "orca",
+        "recall",
+        "agent",
+        "fabric",
+        "arena"
+      ]
+    },
+    {
+      "name": "Meta (META)",
+      "domain": "meta.com",
+      "extra_subdomains": [
+        "ai",
+        "llama",
+        "threads",
+        "horizon",
+        "quest",
+        "orion",
+        "codec"
+      ]
+    },
+    {
+      "name": "Amazon (AMZN)",
+      "domain": "amazon.com",
+      "extra_subdomains": [
+        "bedrock",
+        "titan",
+        "nova",
+        "rufus",
+        "q",
+        "agent",
+        "alexa-plus"
+      ]
+    },
+    {
+      "name": "Apple (AAPL)",
+      "domain": "apple.com",
+      "extra_subdomains": [
+        "intelligence",
+        "ml",
+        "siri",
+        "vision",
+        "spatial",
+        "journal"
+      ]
+    },
+    {
+      "name": "NVIDIA (NVDA)",
+      "domain": "nvidia.com",
+      "extra_subdomains": [
+        "nim",
+        "nemo",
+        "picasso",
+        "omniverse",
+        "ace",
+        "earth2",
+        "cosmos"
+      ]
+    },
+    {
+      "name": "Tesla (TSLA)",
+      "domain": "tesla.com",
+      "extra_subdomains": [
+        "ai",
+        "optimus",
+        "robotaxi",
+        "dojo",
+        "energy",
+        "bot",
+        "fsd"
+      ]
+    },
+    {
+      "name": "Salesforce (CRM)",
+      "domain": "salesforce.com",
+      "extra_subdomains": [
+        "einstein",
+        "agentforce",
+        "data-cloud",
+        "tableau",
+        "mulesoft"
+      ]
+    },
+    {
+      "name": "Palantir (PLTR)",
+      "domain": "palantir.com",
+      "extra_subdomains": [
+        "aip",
+        "foundry",
+        "gotham",
+        "apollo",
+        "agent",
+        "warp"
+      ]
+    },
+    {
+      "name": "Snowflake (SNOW)",
+      "domain": "snowflake.com",
+      "extra_subdomains": [
+        "cortex",
+        "arctic",
+        "streamlit",
+        "notebook",
+        "polaris"
+      ]
+    },
+    {
+      "name": "Coinbase (COIN)",
+      "domain": "coinbase.com",
+      "extra_subdomains": [
+        "base",
+        "wallet",
+        "agent",
+        "onchain",
+        "commerce"
+      ]
+    },
+    {
+      "name": "Shopify (SHOP)",
+      "domain": "shopify.com",
+      "extra_subdomains": [
+        "sidekick",
+        "magic",
+        "hydrogen",
+        "oxygen",
+        "flow"
+      ]
+    },
+    {
+      "name": "Adobe (ADBE)",
+      "domain": "adobe.com",
+      "extra_subdomains": [
+        "firefly",
+        "sensei",
+        "genai",
+        "express",
+        "stock"
+      ]
+    }
+  ],
+  "pages": [],
+  "ct_logs": [
+    {
+      "name": "OpenAI",
+      "domain": "openai.com"
+    },
+    {
+      "name": "Anthropic",
+      "domain": "anthropic.com"
+    },
+    {
+      "name": "Google (GOOGL)",
+      "domain": "google.com"
+    },
+    {
+      "name": "Microsoft (MSFT)",
+      "domain": "microsoft.com"
+    },
+    {
+      "name": "Meta (META)",
+      "domain": "meta.com"
+    },
+    {
+      "name": "Amazon (AMZN)",
+      "domain": "amazon.com"
+    },
+    {
+      "name": "Apple (AAPL)",
+      "domain": "apple.com"
+    },
+    {
+      "name": "NVIDIA (NVDA)",
+      "domain": "nvidia.com"
+    },
+    {
+      "name": "Tesla (TSLA)",
+      "domain": "tesla.com"
+    },
+    {
+      "name": "Salesforce (CRM)",
+      "domain": "salesforce.com"
+    },
+    {
+      "name": "Palantir (PLTR)",
+      "domain": "palantir.com"
+    },
+    {
+      "name": "Snowflake (SNOW)",
+      "domain": "snowflake.com"
+    },
+    {
+      "name": "Coinbase (COIN)",
+      "domain": "coinbase.com"
+    },
+    {
+      "name": "Shopify (SHOP)",
+      "domain": "shopify.com"
+    },
+    {
+      "name": "CrowdStrike (CRWD)",
+      "domain": "crowdstrike.com"
+    },
+    {
+      "name": "Snap (SNAP)",
+      "domain": "snap.com"
+    },
+    {
+      "name": "Roblox (RBLX)",
+      "domain": "roblox.com"
+    },
+    {
+      "name": "Uber (UBER)",
+      "domain": "uber.com"
+    },
+    {
+      "name": "Airbnb (ABNB)",
+      "domain": "airbnb.com"
+    },
+    {
+      "name": "DoorDash (DASH)",
+      "domain": "doordash.com"
+    },
+    {
+      "name": "Robinhood (HOOD)",
+      "domain": "robinhood.com"
+    },
+    {
+      "name": "Reddit (RDDT)",
+      "domain": "reddit.com"
+    },
+    {
+      "name": "Discord",
+      "domain": "discord.com"
+    },
+    {
+      "name": "Stripe",
+      "domain": "stripe.com"
+    },
+    {
+      "name": "xAI",
+      "domain": "x.ai"
+    },
+    {
+      "name": "Perplexity",
+      "domain": "perplexity.ai"
+    }
+  ],
+  "robots_txt": [
+    {
+      "name": "OpenAI",
+      "domain": "openai.com"
+    },
+    {
+      "name": "ChatGPT",
+      "domain": "chatgpt.com"
+    },
+    {
+      "name": "Anthropic",
+      "domain": "www.anthropic.com"
+    },
+    {
+      "name": "Claude",
+      "domain": "claude.ai"
+    },
+    {
+      "name": "Google (GOOGL)",
+      "domain": "www.google.com"
+    },
+    {
+      "name": "Gemini",
+      "domain": "gemini.google.com"
+    },
+    {
+      "name": "YouTube (GOOGL)",
+      "domain": "www.youtube.com"
+    },
+    {
+      "name": "Microsoft (MSFT)",
+      "domain": "www.microsoft.com"
+    },
+    {
+      "name": "Copilot (MSFT)",
+      "domain": "copilot.microsoft.com"
+    },
+    {
+      "name": "Meta (META)",
+      "domain": "www.meta.com"
+    },
+    {
+      "name": "Instagram (META)",
+      "domain": "www.instagram.com"
+    },
+    {
+      "name": "Facebook (META)",
+      "domain": "www.facebook.com"
+    },
+    {
+      "name": "Amazon (AMZN)",
+      "domain": "www.amazon.com"
+    },
+    {
+      "name": "Apple (AAPL)",
+      "domain": "www.apple.com"
+    },
+    {
+      "name": "NVIDIA (NVDA)",
+      "domain": "www.nvidia.com"
+    },
+    {
+      "name": "Tesla (TSLA)",
+      "domain": "www.tesla.com"
+    },
+    {
+      "name": "Netflix (NFLX)",
+      "domain": "www.netflix.com"
+    },
+    {
+      "name": "Spotify (SPOT)",
+      "domain": "open.spotify.com"
+    },
+    {
+      "name": "Twitter/X",
+      "domain": "x.com"
+    },
+    {
+      "name": "Snapchat (SNAP)",
+      "domain": "www.snapchat.com"
+    },
+    {
+      "name": "Reddit (RDDT)",
+      "domain": "www.reddit.com"
+    },
+    {
+      "name": "TikTok",
+      "domain": "www.tiktok.com"
+    },
+    {
+      "name": "Discord",
+      "domain": "discord.com"
+    },
+    {
+      "name": "Salesforce (CRM)",
+      "domain": "www.salesforce.com"
+    },
+    {
+      "name": "Shopify (SHOP)",
+      "domain": "www.shopify.com"
+    },
+    {
+      "name": "Coinbase (COIN)",
+      "domain": "www.coinbase.com"
+    },
+    {
+      "name": "Robinhood (HOOD)",
+      "domain": "robinhood.com"
+    },
+    {
+      "name": "Uber (UBER)",
+      "domain": "www.uber.com"
+    },
+    {
+      "name": "Airbnb (ABNB)",
+      "domain": "www.airbnb.com"
+    },
+    {
+      "name": "DoorDash (DASH)",
+      "domain": "www.doordash.com"
+    },
+    {
+      "name": "Palantir (PLTR)",
+      "domain": "www.palantir.com"
+    },
+    {
+      "name": "Roblox (RBLX)",
+      "domain": "www.roblox.com"
+    },
+    {
+      "name": "Grok (xAI)",
+      "domain": "grok.com"
+    },
+    {
+      "name": "Perplexity",
+      "domain": "www.perplexity.ai"
+    },
+    {
+      "name": "Stripe",
+      "domain": "stripe.com"
+    },
+    {
+      "name": "Notion",
+      "domain": "www.notion.so"
+    },
+    {
+      "name": "Figma",
+      "domain": "www.figma.com"
+    },
+    {
+      "name": "Canva",
+      "domain": "www.canva.com"
+    },
+    {
+      "name": "Duolingo (DUOL)",
+      "domain": "www.duolingo.com"
+    }
+  ],
+  "status_pages": [
+    {
+      "name": "OpenAI",
+      "ticker": "",
+      "url": "https://status.openai.com/"
+    },
+    {
+      "name": "Anthropic",
+      "ticker": "",
+      "url": "https://status.anthropic.com/"
+    },
+    {
+      "name": "Google Cloud",
+      "ticker": "GOOGL",
+      "url": "https://status.cloud.google.com/"
+    },
+    {
+      "name": "AWS",
+      "ticker": "AMZN",
+      "url": "https://health.aws.amazon.com/health/status"
+    },
+    {
+      "name": "Azure",
+      "ticker": "MSFT",
+      "url": "https://status.azure.com/en-us/status"
+    },
+    {
+      "name": "GitHub (MSFT)",
+      "ticker": "MSFT",
+      "url": "https://www.githubstatus.com/"
+    },
+    {
+      "name": "Datadog",
+      "ticker": "DDOG",
+      "url": "https://status.datadoghq.com/"
+    },
+    {
+      "name": "Snowflake",
+      "ticker": "SNOW",
+      "url": "https://status.snowflake.com/"
+    },
+    {
+      "name": "Slack (CRM)",
+      "ticker": "CRM",
+      "url": "https://status.slack.com/"
+    },
+    {
+      "name": "Stripe",
+      "ticker": "",
+      "url": "https://status.stripe.com/"
+    },
+    {
+      "name": "Twilio",
+      "ticker": "TWLO",
+      "url": "https://status.twilio.com/"
+    },
+    {
+      "name": "MongoDB",
+      "ticker": "MDB",
+      "url": "https://status.mongodb.com/"
+    },
+    {
+      "name": "Coinbase",
+      "ticker": "COIN",
+      "url": "https://status.coinbase.com/"
+    },
+    {
+      "name": "Discord",
+      "ticker": "",
+      "url": "https://discordstatus.com/"
+    },
+    {
+      "name": "Shopify",
+      "ticker": "SHOP",
+      "url": "https://www.shopifystatus.com/"
+    },
+    {
+      "name": "Zoom",
+      "ticker": "ZM",
+      "url": "https://status.zoom.us/"
+    },
+    {
+      "name": "Atlassian",
+      "ticker": "TEAM",
+      "url": "https://status.atlassian.com/"
+    },
+    {
+      "name": "Okta",
+      "ticker": "OKTA",
+      "url": "https://status.okta.com/"
+    },
+    {
+      "name": "Elastic",
+      "ticker": "ESTC",
+      "url": "https://status.elastic.co/"
+    },
+    {
+      "name": "Vercel",
+      "ticker": "",
+      "url": "https://www.vercel-status.com/"
+    },
+    {
+      "name": "Supabase",
+      "ticker": "",
+      "url": "https://status.supabase.com/"
+    },
+    {
+      "name": "HubSpot",
+      "ticker": "HUBS",
+      "url": "https://status.hubspot.com/"
+    },
+    {
+      "name": "PagerDuty",
+      "ticker": "PD",
+      "url": "https://status.pagerduty.com/"
+    },
+    {
+      "name": "Notion",
+      "ticker": "",
+      "url": "https://status.notion.so/"
+    },
+    {
+      "name": "Figma",
+      "ticker": "",
+      "url": "https://status.figma.com/"
+    },
+    {
+      "name": "Roblox",
+      "ticker": "RBLX",
+      "url": "https://status.roblox.com/"
+    },
+    {
+      "name": "PayPal",
+      "ticker": "PYPL",
+      "url": "https://www.paypal-status.com/"
+    },
+    {
+      "name": "CrowdStrike",
+      "ticker": "CRWD",
+      "url": "https://status.crowdstrike.com/"
+    },
+    {
+      "name": "Palantir",
+      "ticker": "PLTR",
+      "url": "https://status.palantir.com/"
+    },
+    {
+      "name": "Perplexity",
+      "ticker": "",
+      "url": "https://status.perplexity.ai/"
+    },
+    {
+      "name": "Robinhood",
+      "ticker": "HOOD",
+      "url": "https://status.robinhood.com/"
+    }
+  ],
+  "dns_records": [
+    {
+      "name": "OpenAI",
+      "ticker": "",
+      "domain": "openai.com"
+    },
+    {
+      "name": "Anthropic",
+      "ticker": "",
+      "domain": "anthropic.com"
+    },
+    {
+      "name": "Google",
+      "ticker": "GOOGL",
+      "domain": "google.com"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "domain": "microsoft.com"
+    },
+    {
+      "name": "Meta",
+      "ticker": "META",
+      "domain": "meta.com"
+    },
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "domain": "amazon.com"
+    },
+    {
+      "name": "Apple",
+      "ticker": "AAPL",
+      "domain": "apple.com"
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "domain": "nvidia.com"
+    },
+    {
+      "name": "Tesla",
+      "ticker": "TSLA",
+      "domain": "tesla.com"
+    },
+    {
+      "name": "Coinbase",
+      "ticker": "COIN",
+      "domain": "coinbase.com"
+    },
+    {
+      "name": "Palantir",
+      "ticker": "PLTR",
+      "domain": "palantir.com"
+    },
+    {
+      "name": "Snowflake",
+      "ticker": "SNOW",
+      "domain": "snowflake.com"
+    },
+    {
+      "name": "Shopify",
+      "ticker": "SHOP",
+      "domain": "shopify.com"
+    },
+    {
+      "name": "Salesforce",
+      "ticker": "CRM",
+      "domain": "salesforce.com"
+    },
+    {
+      "name": "Adobe",
+      "ticker": "ADBE",
+      "domain": "adobe.com"
+    }
+  ],
+  "graphql": [
+    {
+      "name": "GitHub API (MSFT)",
+      "ticker": "MSFT",
+      "url": "https://api.github.com/graphql"
+    },
+    {
+      "name": "Shopify Storefront",
+      "ticker": "SHOP",
+      "url": "https://shopify.dev/graphql"
+    },
+    {
+      "name": "Reddit",
+      "ticker": "RDDT",
+      "url": "https://gql.reddit.com/"
+    },
+    {
+      "name": "Roblox",
+      "ticker": "RBLX",
+      "url": "https://apis.roblox.com/graphql"
+    }
+  ],
+  "cdn_assets": [
+    {
+      "name": "OpenAI Products",
+      "ticker": "",
+      "url": "https://openai.com/",
+      "cdn_domains": [
+        "openai.com",
+        "oaiusercontent.com"
+      ]
+    },
+    {
+      "name": "Anthropic Products",
+      "ticker": "",
+      "url": "https://www.anthropic.com/",
+      "cdn_domains": [
+        "anthropic.com"
+      ]
+    },
+    {
+      "name": "Google Store",
+      "ticker": "GOOGL",
+      "url": "https://store.google.com/",
+      "cdn_domains": [
+        "googleusercontent.com",
+        "gstatic.com"
+      ]
+    },
+    {
+      "name": "Apple Products",
+      "ticker": "AAPL",
+      "url": "https://www.apple.com/shop/",
+      "cdn_domains": [
+        "apple.com"
+      ]
+    },
+    {
+      "name": "Tesla Products",
+      "ticker": "TSLA",
+      "url": "https://www.tesla.com/",
+      "cdn_domains": [
+        "tesla.com",
+        "tesla-cdn.thron.com"
+      ]
+    },
+    {
+      "name": "NVIDIA Products",
+      "ticker": "NVDA",
+      "url": "https://www.nvidia.com/en-us/geforce/",
+      "cdn_domains": [
+        "nvidia.com"
+      ]
+    },
+    {
+      "name": "Meta Store",
+      "ticker": "META",
+      "url": "https://www.meta.com/quest/",
+      "cdn_domains": [
+        "meta.com",
+        "fbcdn.net"
+      ]
+    },
+    {
+      "name": "Snap Spectacles",
+      "ticker": "SNAP",
+      "url": "https://www.spectacles.com/",
+      "cdn_domains": [
+        "snap.com",
+        "spectacles.com"
+      ]
+    },
+    {
+      "name": "Rivian Vehicles",
+      "ticker": "RIVN",
+      "url": "https://rivian.com/",
+      "cdn_domains": [
+        "rivian.com"
+      ]
+    },
+    {
+      "name": "Roku Products",
+      "ticker": "ROKU",
+      "url": "https://www.roku.com/en-us/products",
+      "cdn_domains": [
+        "roku.com"
+      ]
+    }
+  ]
+}
